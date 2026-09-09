@@ -1,2 +1,3 @@
 "Hello Git!" 
 "Greetings from a feature branch." 
+This is the 3rd line added on GitHub
